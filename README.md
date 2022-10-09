@@ -1,4 +1,4 @@
-# spring-study
+# spring-basic-study
 스프링 공부
 
 ## 스프링 입문 (22.10.09)
